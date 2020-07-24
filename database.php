@@ -1,0 +1,1 @@
+<?php$db_host = 'sql302.unaux.com';$db_name = '26055916_unaux_hajir';$db_user ='26055916_unaux';$db_pass = '290hala1h';$mysqli = new mysqli($db_host,$db_name,$db_user,$db_pass); ?>
